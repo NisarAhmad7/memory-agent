@@ -1,0 +1,17 @@
+Your Conversation Log:
+You: Hi
+AI: Hello! How are you doing today?
+
+You: My name is Ahmad
+AI: Nice to meet you, Ahmad! What can I do for you today?
+
+You: How are you?
+AI: I'm great, thanks for asking. And you?
+
+You: What is my name?
+AI: Your name is Ahmad.
+
+You: Can you help me learn Python?
+AI: Of course! I can guide you through Python basics and projects.
+
+Finish of Conversation

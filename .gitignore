@@ -1,0 +1,23 @@
+# Ignore environment files containing secrets
+.env
+*.env
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore Python virtual environments
+venv/
+env/
+*.venv/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore your OpenAI API key file if separate
+openai_key.txt
